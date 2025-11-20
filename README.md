@@ -26,6 +26,14 @@ Hello world, this is my profile.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
+
+###
+
+<h3 align="left">🔥   My Projects :</h3>
+
+<img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/0f74f0c3-c36a-41fe-9b53-5fb6e99928f3" />
+Weekly Holiday, Sales Dashboard.
+
 ###
 
 <div align="center">
@@ -36,12 +44,5 @@ Hello world, this is my profile.
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">🔥   My Projects :</h3>
-
-<img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/0f74f0c3-c36a-41fe-9b53-5fb6e99928f3" />
-Weekly Holiday, Sales Dashboard.
 
 ###
