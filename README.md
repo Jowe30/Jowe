@@ -1,10 +1,31 @@
-# Jowe
+# JOAN GREEN PROFESSIONAL PROFILE.
 Hello world, this is my profile.
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Joan Green, a business/health data analyst from Nigeria.<br><br>- I'm skilled with Python, Excel, Power Bi and Sql.<br>- I'm currently learning R and Tableau.<br>- In my free time: <br>1. I volunteer at a clinic, <br>2. write health blogs (https://geesmentalhub.substack.com/) [feel free to check me out].</p>
+<p align="left">I'm Joan Green, 👋
+
+I’m a **Health Data Analyst** with a background in public health and hands-on experience supporting community health programs, validating field data, and analyzing datasets to inform reporting and decision-making. I’m particularly interested in how data can improve health systems, monitoring & evaluation, and evidence-based program design.
+
+---
+
+## What I Work On
+- Health and public health data analysis  
+- Data cleaning, validation, and quality checks  
+- Dashboards and visual reporting for non-technical audiences  
+- Research-oriented analysis to support programs and policy discussions  
+
+My work focuses on turning raw data into insights that are useful for health programs, stakeholders, and decision-makers.
+
+---
+
+## Core Skills
+- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI  
+- **Data Management:** Data cleaning, merging, validation, exploratory analysis  
+- **Reporting & Communication:** Dashboards, summaries, data storytelling  
+- **Tools:** SQL (MySQL), Google Sheets, Forms, Docs, Slack, Trello  
+- **Domain:** Public health, community health programs, digital health.</p>
 
 ###
 
@@ -31,9 +52,28 @@ Hello world, this is my profile.
 
 <h3 align="left">🔥   My Projects :</h3>
 
+## Featured Projects
+🔹 **Global Health Expenditure Analysis**  
+Analysis of global health spending patterns across countries and income groups, exploring public vs private financing and policy-relevant implications.  
+👉 https://github.com/Jowe30/global-health-expenditure-analysis  
+
+🔹 **Global COVID-19 Data Analysis**  
+Exploratory analysis of Johns Hopkins COVID-19 data to identify trends in cases and mortality across regions.  
+
+🔹 **Weekly Sales Analysis Dashboard (HNG Internship)**  
+Interactive Excel dashboard using Pivot Tables and slicers to explore weekly store performance.  
+
+Each project repository includes a clear problem statement, methodology, and insights.
+
 <img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/0f74f0c3-c36a-41fe-9b53-5fb6e99928f3" />
 Weekly Holiday, Sales Dashboard.
 
+###
+## Background
+I hold a **B.Sc. in Public Health** and I’m currently completing a **Diploma in Data Analysis**. I’ve worked with NGOs and health initiatives across multiple regions, supporting data validation, reporting, and outreach activities. These experiences shape how I approach data — with attention to accuracy, context, and real-world impact.
+
+## Let’s Connect
+- 📧 Email: joangreen645@gmail.com
 ###
 
 <div align="center">
@@ -46,3 +86,5 @@ Weekly Holiday, Sales Dashboard.
 </div>
 
 ###
+
+I’m open to opportunities in **health data analysis, monitoring & evaluation, and research-focused roles**.
