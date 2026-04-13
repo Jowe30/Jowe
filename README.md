@@ -1,25 +1,34 @@
-# JOAN GREEN PROFESSIONAL PROFILE.
-Hello world, this is my profile.
-<h3 align="left">👩‍💻  About Me</h3>
+# JOAN GREEN
+#### Health Data Analyst | Data Storyteller
 
-###
+###### [About Me](About)       [My Projects](Projects)       [Technical Skills](Skills)       [Contact Me](Contact)
+<h3 align="left">  About Me</h3>
 
-<p align="left">I'm Joan Green, 👋
-
-I’m a **Health Data Analyst** with a background in public health and hands-on experience supporting community health programs, validating field data, and analyzing datasets to inform reporting and decision-making. I’m particularly interested in how data can improve health systems, monitoring & evaluation, and evidence-based program design.
-
----
-
-## What I Work On
-- Health and public health data analysis  
-- Data cleaning, validation, and quality checks  
-- Dashboards and visual reporting for non-technical audiences  
-- Research-oriented analysis to support programs and policy discussions  
-
-My work focuses on turning raw data into insights that are useful for health programs, stakeholders, and decision-makers.
+|  |  |
+|--|--|
+| I’m a Health Data Analyst with a strong interest in using data to understand health outcomes and the financial systems that support them. My work sits at the intersection of **public health and financial analysis**, where I explore how data can improve both service delivery and resource allocation. <br><br> I have experience working with **health program data, insurance datasets, and population-level indicators**, applying techniques in **data cleaning, validation, exploratory analysis, and visualization** to produce insights that are clear and useful for decision-making. <br><br> Beyond clinical and population health data, I also analyze **financial patterns within the health sector**, including cost drivers, risk factors, and expenditure trends. This allows me to contribute to conversations around **efficiency, sustainability, and evidence-based planning**. <br><br> With a background in **Public Health** and ongoing training in **data analytics**, I bring a balanced approach that combines **technical skills, domain knowledge, and practical context** when working with data. | <br><br> ![IMG_0503 JPG](https://github.com/user-attachments/assets/ec054c8a-481f-4063-8bc6-96eb6269b4c2)
+ |
 
 ---
+<h3 align="left">🔥   My Projects :</h3>
 
+## Featured Projects
+🔹 **Global Health Expenditure Analysis**  
+Analysis of global health spending patterns across countries and income groups, exploring public vs private financing and policy-relevant implications.  
+👉 https://github.com/Jowe30/global-health-expenditure-analysis  
+
+🔹 **Global COVID-19 Data Analysis**  
+Exploratory analysis of Johns Hopkins COVID-19 data to identify trends in cases and mortality across regions.  
+
+🔹 **Weekly Sales Analysis Dashboard (HNG Internship)**  
+Interactive Excel dashboard using Pivot Tables and slicers to explore weekly store performance.  
+
+Each project repository includes a clear problem statement, methodology, and insights.
+
+<img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/0f74f0c3-c36a-41fe-9b53-5fb6e99928f3" />
+Weekly Holiday, Sales Dashboard.
+
+---
 ## Core Skills
 - **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI  
 - **Data Management:** Data cleaning, merging, validation, exploratory analysis  
