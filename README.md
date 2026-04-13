@@ -23,8 +23,7 @@ Highlighted regional disparities and development-driven outcomes.
 
 <img width="1272" height="735" alt="Screenshot 2026-04-13 144626" src="https://github.com/user-attachments/assets/24d41030-9ee5-4280-8e44-a78a1e196035" />
 Exploration of key drivers of insurance charges, including age, BMI, smoking status, and region.
-Delivered insights for cost patterns, risk factors, and pricing considerations..  
-
+Delivered insights for cost patterns, risk factors, and pricing considerations.  
 
 
 🔹 **[Global Health Expenditure](https://github.com/Jowe30/Exploratory-Data-Analysis-Global-Health-Expenditure)**  
@@ -34,10 +33,11 @@ Analysis of global health spending patterns across countries and income groups, 
 
 This project highlights how **health financing impacts system performance and access to care**, providing insights relevant to **policy, planning, and resource allocation**.  
 
-🔹 **[Customer Interaction]()**
+🔹 **[Customer Interaction](https://github.com/Jowe30/Business-Intelligence-Customer-Experience-Analysis-Using-Power-BI)**
 
 <img width="1270" height="716" alt="Screenshot 2026-04-13 152054" src="https://github.com/user-attachments/assets/ac419f46-640b-41ce-8211-1882e1620101" />
 
+Conducted an end-to-end analysis of customer experience data to uncover drivers of satisfaction and engagement. Cleaned and explored the dataset, identified key trends and customer segments, and developed visual reports to highlight service gaps and improvement opportunities. Delivered actionable insights to support better customer experience strategies and data-driven decision-making.
 
 ---
 ## Technical Skills
