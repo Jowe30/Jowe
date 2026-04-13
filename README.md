@@ -1,8 +1,13 @@
 # JOAN GREEN
 #### Health Data Analyst | Data Storyteller
 
-###### [About Me](About)       [My Projects](Projects)       [Technical Skills](Skills)       [Contact Me](Contact)
-<h3 align="left">  About Me</h3>
+###### [About Me](About)       
+###### [My Projects](Projects)       
+###### [Technical Skills](Skills)       
+###### [Contact Me](Contact)
+
+
+## ABOUT ME
 
 |  |  |
 |--|--|
@@ -10,32 +15,50 @@
  |
 
 ---
-<h3 align="left">🔥   My Projects :</h3>
+## MY PROJECTS
 
-## Featured Projects
-🔹 **Global Health Expenditure Analysis**  
-Analysis of global health spending patterns across countries and income groups, exploring public vs private financing and policy-relevant implications.  
-👉 https://github.com/Jowe30/global-health-expenditure-analysis  
+🔹 **Life Expectancy Analysis** 
 
-🔹 **Global COVID-19 Data Analysis**  
-Exploratory analysis of Johns Hopkins COVID-19 data to identify trends in cases and mortality across regions.  
+Analyzed global life expectancy trends and relationships with health expenditure, GDP, and education.
+Highlighted regional disparities and development-driven outcomes.  
 
-🔹 **Weekly Sales Analysis Dashboard (HNG Internship)**  
-Interactive Excel dashboard using Pivot Tables and slicers to explore weekly store performance.  
+🔹 **[Health Insurance Risk Profitability Analysis](https://github.com/Jowe30/Health-Insurance-Risk-Profitability-Analysis-Power-BI)** 
 
-Each project repository includes a clear problem statement, methodology, and insights.
+<img width="1272" height="735" alt="Screenshot 2026-04-13 144626" src="https://github.com/user-attachments/assets/24d41030-9ee5-4280-8e44-a78a1e196035" />
+Exploration of key drivers of insurance charges, including age, BMI, smoking status, and region.
+Delivered insights for cost patterns, risk factors, and pricing considerations..  
 
-<img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/0f74f0c3-c36a-41fe-9b53-5fb6e99928f3" />
-Weekly Holiday, Sales Dashboard.
+🔹 **[Global Health Expenditure](https://github.com/Jowe30/Exploratory-Data-Analysis-Global-Health-Expenditure)**  
+
+<img width="1085" height="652" alt="Screenshot 2026-04-13 145654" src="https://github.com/user-attachments/assets/badc2f87-d080-4b9c-aa69-452c451df42a" />
+Analysis of global health spending patterns across countries and income groups, examining **public vs private expenditure, per capita spending, and regional disparities**.
+
+This project highlights how **health financing impacts system performance and access to care**, providing insights relevant to **policy, planning, and resource allocation**.  
+
+🔹 **[Customer Interaction]()
+
+<img width="1270" height="716" alt="Screenshot 2026-04-13 152054" src="https://github.com/user-attachments/assets/ac419f46-640b-41ce-8211-1882e1620101" />
+
 
 ---
-## Core Skills
-- **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, Power BI  
-- **Data Management:** Data cleaning, merging, validation, exploratory analysis  
-- **Reporting & Communication:** Dashboards, summaries, data storytelling  
-- **Tools:** SQL (MySQL), Google Sheets, Forms, Docs, Slack, Trello  
-- **Domain:** Public health, community health programs, digital health.</p>
+## Technical Skills
+**Data Exploration & Analysis**
+- Excel
+- SQL
+- Python
+- Power Query
 
+**Data Visualization**
+- Power BI
+- Excel
+- Tableau
+
+**Data Modeling**
+- Power Query
+- DAX
+- Star Schema Design
+
+---
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -56,33 +79,16 @@ Weekly Holiday, Sales Dashboard.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
+---
 
-###
+## CONTACT
+Interested in collaboration or have questions about my work? Kindly reach out.
 
-<h3 align="left">🔥   My Projects :</h3>
+<form action="https://formspree.io/f/yourformid" method="POST"> <input type="text" name="name" placeholder="Your Name" required> <input type="email" name="email" placeholder="Your Email" required> <input type="text" name="subject" placeholder="Subject" required> <textarea name="message" placeholder="Message" required></textarea>
 
-## Featured Projects
-🔹 **Global Health Expenditure Analysis**  
-Analysis of global health spending patterns across countries and income groups, exploring public vs private financing and policy-relevant implications.  
-👉 https://github.com/Jowe30/global-health-expenditure-analysis  
+<button type="submit">Send Message</button>
 
-🔹 **Global COVID-19 Data Analysis**  
-Exploratory analysis of Johns Hopkins COVID-19 data to identify trends in cases and mortality across regions.  
-
-🔹 **Weekly Sales Analysis Dashboard (HNG Internship)**  
-Interactive Excel dashboard using Pivot Tables and slicers to explore weekly store performance.  
-
-Each project repository includes a clear problem statement, methodology, and insights.
-
-<img width="1617" height="556" alt="Screenshot 2025-10-19 002121" src="https://github.com/user-attachments/assets/0f74f0c3-c36a-41fe-9b53-5fb6e99928f3" />
-Weekly Holiday, Sales Dashboard.
-
-###
-## Background
-I hold a **B.Sc. in Public Health** and I’m currently completing a **Diploma in Data Analysis**. I’ve worked with NGOs and health initiatives across multiple regions, supporting data validation, reporting, and outreach activities. These experiences shape how I approach data — with attention to accuracy, context, and real-world impact.
-
-## Let’s Connect
-- 📧 Email: joangreen645@gmail.com
+</form>
 ###
 
 <div align="center">
