@@ -1,10 +1,10 @@
 # JOAN GREEN
 #### Health Data Analyst | Data Storyteller
 
-###### [About Me](About)       
-###### [My Projects](Projects)       
-###### [Technical Skills](Skills)       
-###### [Contact Me](Contact)
+###### [ABOUT ME](ABOUT_ME)       
+###### [MY PROJECTS](MY_PROJECTS)       
+###### [TECHNICAL SKILLS](TECHNICAL_SKILLS)       
+###### [CONTACT](CONTACT)
 
 
 ## ABOUT ME
